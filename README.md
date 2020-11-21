@@ -23,5 +23,5 @@
 
 <br/>
 
-[![AVS1508's Github Stats](https://github-readme-stats.vercel.app/api?username=ssakashi&show_icons=true)](https://github.com/ssakashi)
+[![AVS1508's Github Stats](https://github-readme-stats.vercel.app/api?username=ssakashi&show_icons=true)](https://github.com/AVS1508)
 
