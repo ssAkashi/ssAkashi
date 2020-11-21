@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi Everyone, I'm Akashi 👋
+
+<h2> 💻 About Me </h2>
 
 <!--
 **ssAkashi/ssAkashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
