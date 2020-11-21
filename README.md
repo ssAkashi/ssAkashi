@@ -4,9 +4,9 @@
 
 - 🎓 I'm a student.
 - 🌐 I would like to become a web developer or fullstack.
-- 🇫🇷 I live in France.
-- I working for GreedIsland (FiveM Server).
-- I working for Nexus-Games.
+- 🏴 I live in France.
+- ⛏️ I working for GreedIsland (FiveM Server).
+- 🔨 I working for Nexus-Games.
 
 <h3> 💻🛠️ I'm Student Developper </h3>
 
@@ -16,10 +16,10 @@
 
 <h4> 🛠️ My working projects </h4>
 
-- GreedIsland (FiveM Serrver).
-- Nexus-Games (French Hebergeur).
-- akaFramework (private framework on FiveM).
-- Akashi (bot on discord.js).
+- 💻 GreedIsland (FiveM Server).
+- 🌐 Nexus-Games (French Hebergeur).
+- 🖥️ akaFramework (private framework on FiveM).
+- ⚜️ Akashi (bot on discord.js).
 
 <br/>
 
