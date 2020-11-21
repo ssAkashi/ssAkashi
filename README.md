@@ -6,9 +6,22 @@
 - I would like to become a web developer or fullstack.
 - I live in France.
 - I working for GreedIsland (FiveM Server).
+- I working for Nexus-Games.
 
 <h3> 💻🛠️ I'm Student Developper </h3>
 
 - 💻 : FiveM - AltV - DiscordJS - Web
 - ⚡ : Lua | JavaScript | TypeScript | C# | Python
 - 🌐 : Html | CSS
+
+<h4> 🛠️ My working projects </h4>
+
+- GreedIsland (FiveM Serrver).
+- Nexus-Games (French Hebergeur).
+- akaFramework (private framework on FiveM).
+- Akashi (bot on discord.js).
+
+<br/>
+
+[![AVS1508's Github Stats](https://github-readme-stats.vercel.app/api?username=ssakashi&show_icons=true)](https://github.com/ssakashi)
+
