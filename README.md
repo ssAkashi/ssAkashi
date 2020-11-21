@@ -28,5 +28,5 @@
 <h3> 📱 Connect with Me </h3>
 
 <p align="center">
-  <a href="https://twitter.com/Akashiw3b"><img alt="Twitter" src="https://twitter.com/Akashiw3b"></a>
+  <a href="https://twitter.com/Akashiw3b"><img alt="Twitter" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png"></a>
 
