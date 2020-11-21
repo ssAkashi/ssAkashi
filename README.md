@@ -30,6 +30,6 @@
 <p align="center">
   <a href="https://twitter.com/Akashiw3b"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Akashiw3b-blue?style=flat-square&logo=twitter"></a>
   <a href="https://www.youtube.com/channel/UCXF-1hJcILdYTDBw-4y541Q?view_as=subscriber"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-Akashi-red?style=flat-square&logo=youtube"></a> <br>
-  - My Discord : Akashi#0001
+  🌐 My Discord : Akashi#0001
   
   🔥 FROM [ssAkashi](https://github.com/ssAkashi)
