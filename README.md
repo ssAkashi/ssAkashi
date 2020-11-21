@@ -23,5 +23,10 @@
 
 <br/>
 
-[![AVS1508's Github Stats](https://github-readme-stats.vercel.app/api?username=ssakashi&show_icons=true)](https://github.com/AVS1508)
+[![Akashi's Github Stats](https://github-readme-stats.vercel.app/api?username=ssakashi&show_icons=true)](https://github.com/ssAkashi)
+
+<h3> 📱 Connect with Me </h3>
+
+<p align="center">
+  <a href="https://twitter.com/Akashiw3b"><img alt="Twitter" src="https://twitter.com/Akashiw3b"></a>
 
