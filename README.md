@@ -18,8 +18,6 @@
 
 - 💻 GreedIsland (FiveM Server).
 - 🌐 Nexus-Games (French Hebergeur).
-- 🖥️ akaFramework (private framework on FiveM).
-- ⚜️ Akashi (bot on discord.js).
 
 <br/>
 
