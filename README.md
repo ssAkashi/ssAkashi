@@ -1,5 +1,4 @@
-<img border="0" src="https://www.youtube.com/watch?v=SDkAGkd4NLc">
-<h1> Hi, I'm Akashi 👋 </h1>
+<img border="0" src="https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif">
 
 <h2> 💻 About Me </h2>
 
