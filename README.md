@@ -6,7 +6,7 @@
 - ⛏️ I working for GreedIsland (FiveM Server).
 - 🔨 I working for Nexus-Games.
 
-<h3> 💻🛠️ Languages </h3>
+<h3> 💻 Languages </h3>
 
 - 💻 : FiveM - AltV - DiscordJS - Web
 - ⚡ : Lua | JavaScript | TypeScript | C# | Python
