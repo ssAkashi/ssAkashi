@@ -22,6 +22,8 @@
 
 [![Akashi's Github Stats](https://github-readme-stats.vercel.app/api?username=ssakashi&show_icons=true)](https://github.com/ssAkashi)
 
+<img border="1" src="https://i.pinimg.com/originals/52/78/4c/52784cd19b12e49c4b7cff942b9692af.gif">
+
 <h3> 📱 Connect with Me </h3>
 
 <p align="center">
