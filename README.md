@@ -1,4 +1,4 @@
-<img border="0" src="https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif">
+<img border="0" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg">
 
 <h2> 💻 About Me </h2>
 
