@@ -3,18 +3,18 @@
 <h2> 💻 About Me </h2>
 
 - 🏴 I'm French student Developper .
-- ⛏️ I working for GreedIsland (FiveM Server).
+- ⛏️ I working for Starlife (FiveM Server).
 - 🔨 I working for Nexus-Games.
 
 <h3> 💻 Languages </h3>
 
-- 💻 : FiveM - AltV - DiscordJS - Web
-- ⚡ : Lua | JavaScript | TypeScript | C# | Python
+- 💻 : FiveM - DiscordJS - Web
+- ⚡ : Lua | JavaScript | C# |
 - 🌐 : Html | CSS
 
 <h4> 🛠️ My working projects </h4>
 
-- 💻 GreedIsland (FiveM Server).
+- 💻 Starlife (FiveM Server).
 - 🌐 Nexus-Games (French Hebergeur).
 - 🐉 DragonBallZ Anticheat (private anticheat)
 
