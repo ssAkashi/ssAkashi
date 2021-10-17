@@ -8,8 +8,8 @@
 
 <h3> 💻 Languages </h3>
 
-- 💻 : FiveM - DiscordJS - Web
-- ⚡ : Lua | JavaScript | C# |
+- 💻 : FiveM - Java - Web
+- ⚡ : Lua | Java | JavaScript | C# |
 - 🌐 : Html | CSS
 
 <h4> 🛠️ My working projects </h4>
