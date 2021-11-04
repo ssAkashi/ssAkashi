@@ -3,7 +3,7 @@
 <h2> 💻 About Me </h2>
 
 - 🏴 I'm French student Developper .
-- ⛏️ I working for Starlife (FiveM Server).
+- ⛏️ I working for Astra (FiveM Server).
 - 🔨 I working for Nexus-Games.
 
 <h3> 💻 Languages </h3>
@@ -14,7 +14,7 @@
 
 <h4> 🛠️ My working projects </h4>
 
-- 💻 Starlife (FiveM Server).
+- 💻 Astra (FiveM Server).
 - 🌐 Nexus-Games (French Hebergeur).
 - 🐉 DragonBallZ Anticheat (private anticheat)
 
